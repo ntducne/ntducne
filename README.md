@@ -121,12 +121,9 @@
 
 </div>  
 
-<br/>
+<br/>     
 
 ## Spotify
-<div align="left">
-    [<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
-    
-</div>  
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
 
 <br/>
