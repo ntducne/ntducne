@@ -6,7 +6,7 @@
 ### <div align="center">I'm NguyenDuc, a fullstack developer </div>  
   
 
-- 🔭 I’m student on [FPT Polytechnic](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m a student at FPT Polytechnic
   
 
 - 🌱 I’m currently learning AI and Kubernetes  
