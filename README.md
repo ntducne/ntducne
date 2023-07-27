@@ -111,7 +111,7 @@
 
 
 ## Connect with me
-<div align="center">
+<div align="left">
 
 <a href="https://www.facebook.com/ntduc106" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -129,6 +129,6 @@
 ## Spotify
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>
