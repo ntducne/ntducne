@@ -6,11 +6,14 @@
 ### <div align="center">I'm NguyenDuc, a fullstack developer </div>
 
 
-- 🔭 I’m a student at FPT Polytechnic
+- 🔭 I’m a student at FPT Polytechnic 🧑‍🎓
 
-[//]: # (- 🌱 I’m currently learning AI and Kubernetes)
-[//]: # (- ❓ Ask me about anything related to related technologies)
-[//]: # (- ⚡ Fun fact: I use tabs over spaces)
+
+- 💬 Ask me about anything related to related technologies 💻
+
+
+- ⚡ Fun fact: I'm so pale :vv
+
 
 - 🌐 Portfolio: [ntducc.id.vn](https://ntducc.id.vn)
 
