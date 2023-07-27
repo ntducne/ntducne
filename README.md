@@ -100,4 +100,6 @@
 ## Spotify  
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/>
