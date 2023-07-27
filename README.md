@@ -94,3 +94,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>
+
+## Spotify  
+<br/>  
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
