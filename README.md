@@ -8,15 +8,9 @@
 
 - 🔭 I’m a student at FPT Polytechnic
 
-
-- 🌱 I’m currently learning AI and Kubernetes
-
-
-- ❓ Ask me about anything related to related technologies
-
-
-- ⚡ Fun fact: I use tabs over spaces
-
+[//]: # (- 🌱 I’m currently learning AI and Kubernetes)
+[//]: # (- ❓ Ask me about anything related to related technologies)
+[//]: # (- ⚡ Fun fact: I use tabs over spaces)
 
 - 🌐 Portfolio: [ntducc.id.vn](https://ntducc.id.vn)
 
