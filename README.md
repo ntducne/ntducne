@@ -24,6 +24,7 @@
 
 
 ## My Skill Set
+
 <table>
 <tr>
 
@@ -32,11 +33,13 @@
 ### Frontend
 <div>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="HTML-CSS-JS" height="50" /></a>
+    <br/>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="50" /></a>  
     <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+    <br/>
     <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" alt="Nuxt JS" height="50" /></a>  
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+    <br/>
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="TypeScript" height="50" /></a>  
 </div>  
 
@@ -49,9 +52,8 @@
 <div >  
     <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="50" /></a>  
     <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>
-
-[//]: # (    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  )
 </div>
+
 </td>
 
 <td valign="top" width="33%">
@@ -61,18 +63,21 @@
     <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png" alt="MySQL" height="50" /></a>  
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
-</td>
-</tr>
 
-</table>  
-<table>
+</td>
+
+</tr>
 <tr>
+
+
 <td valign="top" width="33%">
 
 ### CMS
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
 
 </td>
+
+
 <td valign="top" width="33%">
 
 ### Design
