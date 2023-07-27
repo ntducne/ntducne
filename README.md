@@ -16,6 +16,29 @@
 
 <br/>  
 
+## Spotify
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
+
+<br/>
+
+## Connect with me
+<div align="left">
+
+<a href="https://www.facebook.com/ntduc106" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/ntduc03" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://linkedin.com/in/ntducnef" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+
+<br/>     
 
 ## My Skill Set
 
@@ -102,28 +125,3 @@
 </table>  
 
 <br/>  
-
-
-## Connect with me
-<div align="left">
-
-<a href="https://www.facebook.com/ntduc106" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/ntduc03" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-
-<a href="https://linkedin.com/in/ntducnef" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-</div>  
-
-<br/>     
-
-## Spotify
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
-
-<br/>
