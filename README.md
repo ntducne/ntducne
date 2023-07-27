@@ -82,7 +82,7 @@
 
 ### Design
 <div>  
-    <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Premiere Pro" height="50" /></a>  
+    <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="50" /></a>  
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
     <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
@@ -99,7 +99,7 @@
     <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
     <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
     <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-    <a href="https://docker.com/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/gitlab.svg](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)" alt="GitLab" height="50" /></a> 
+    <a href="https://docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Dcoker" height="50" /></a> 
 </div>
 
 </td>
