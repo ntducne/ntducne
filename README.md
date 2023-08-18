@@ -8,8 +8,10 @@
  </abc>
 </h3> 
 
+<br/>
+
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
-<code><img height="20" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png"></code>
+<code><img height="20" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png"</code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/nextjs.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"></code>
@@ -27,6 +29,7 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 
 <br/>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I’m a student at FPT Polytechnic 🧑‍🎓
@@ -58,4 +61,6 @@
 <br/>
 
 <h2 align="left">🎶 Spotify</h2>
+
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
+
