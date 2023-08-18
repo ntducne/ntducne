@@ -1,8 +1,7 @@
-
 <h3 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm NguyenDuc, a fullstack developer 💻<br>
+  <br> I'm NguyenDuc, a full stack developer 💻<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
  </abc>
@@ -61,6 +60,4 @@
 <br/>
 
 <h2 align="left">🎶 Spotify</h2>
-
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ia7gum3gpr5rd52qhnhec2sgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />](https://open.spotify.com/user/31ia7gum3gpr5rd52qhnhec2sgjm)
-
