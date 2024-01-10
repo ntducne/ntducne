@@ -5,6 +5,7 @@
   <br> I'm NguyenDuc, a full stack developer 💻<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+  <a href="https://app.daily.dev/ntducne"><img src="https://api.daily.dev/devcards/f0a2bad948c344948f2686933840affc.png?r=ir5" width="400" alt="Nguyen Duc's Dev Card"/></a>
  </abc>
 </h3> 
 
